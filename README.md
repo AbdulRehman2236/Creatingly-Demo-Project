@@ -19,7 +19,7 @@ The following software is required:
 1. Clone the repo using below URL:
 
    ```
-   https://github.com/AbdulRehman2236/Automate-With-Playwright.git
+   https://github.com/AbdulRehman2236/Creatingly-Demo-Project
    ```
 
 2. Navigate to folder and install npm packages using:
