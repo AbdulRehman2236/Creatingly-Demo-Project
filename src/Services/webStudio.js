@@ -19,7 +19,7 @@ export class Webstudio {
   }
 
   async openWebstudio() {
-    await this.page.goto("https://dev.platform.creatingly.com/webstudio");
+    await this.page.goto("/webstudio");
     await this.page.locator(elemWebStudioSpan).first().click();
   }
 
